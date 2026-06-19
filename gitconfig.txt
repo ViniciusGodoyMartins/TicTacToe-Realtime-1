@@ -1,5 +1,5 @@
-git config --global user.name estherlopess
-git config --global user.email estherlopes678@gmail.com
+git config --global user.name vinisaomtec-source
+git config --global user.email vinisaomtec@gmail.com
 
 dotnet new mvc -o ToDoPlatform
 dotnet add package Microsoft.EntityFrameworkCore --version 10.0.3
